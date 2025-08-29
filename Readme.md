@@ -19,3 +19,5 @@ https://ahsanfolium-ai-intern-week5-deliverable.hf.space/
 ### deployed link live postman testing post request 
 <img width="1097" height="695" alt="image" src="https://github.com/user-attachments/assets/7b72d271-93da-4839-8f9f-81eaae08613a" />
 
+### Updated deployment code with port fix on HF Spaces repo 
+https://huggingface.co/spaces/ahsanfolium/ai-intern-week5-deliverable/tree/main
